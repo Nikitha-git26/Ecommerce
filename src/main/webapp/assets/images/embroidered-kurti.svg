@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" role="img" aria-label="Embroidered Kurti">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fff4d6"/>
+      <stop offset="1" stop-color="#f8d8c9"/>
+    </linearGradient>
+    <linearGradient id="kurti" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fffaf0"/>
+      <stop offset="1" stop-color="#ffd9a8"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1100" fill="url(#bg)"/>
+  <circle cx="145" cy="160" r="120" fill="#f0b429" opacity=".22"/>
+  <circle cx="790" cy="280" r="160" fill="#0f766e" opacity=".13"/>
+  <path d="M312 235c38-36 238-36 276 0l58 94-72 55-28-42 67 552c-88 64-238 64-326 0l67-552-28 42-72-55 58-94z" fill="url(#kurti)" stroke="#b85c38" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M390 218c25 45 95 45 120 0l26 35c-16 56-156 56-172 0l26-35z" fill="#f8c978" stroke="#b85c38" stroke-width="8"/>
+  <path d="M352 385h196M336 505h228M322 625h256M308 745h284" fill="none" stroke="#b85c38" stroke-width="7" stroke-linecap="round" opacity=".35"/>
+  <g fill="none" stroke="#0f766e" stroke-width="8" stroke-linecap="round">
+    <path d="M405 342c32 36 58 36 90 0"/>
+    <path d="M380 438c45 45 95 45 140 0"/>
+    <path d="M360 560c62 48 118 48 180 0"/>
+  </g>
+  <g fill="#b85c38">
+    <circle cx="450" cy="330" r="9"/>
+    <circle cx="420" cy="420" r="8"/>
+    <circle cx="480" cy="420" r="8"/>
+    <circle cx="392" cy="535" r="8"/>
+    <circle cx="450" cy="535" r="8"/>
+    <circle cx="508" cy="535" r="8"/>
+  </g>
+  <path d="M284 905c98 82 234 82 332 0" fill="none" stroke="#0f766e" stroke-width="12" stroke-linecap="round"/>
+  <text x="450" y="1010" text-anchor="middle" font-family="Trebuchet MS, Arial, sans-serif" font-size="58" font-weight="800" fill="#201914">Embroidered Kurti</text>
+</svg>

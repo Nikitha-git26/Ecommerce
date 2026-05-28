@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" role="img" aria-label="Wide-Leg Trousers">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#e7f4ef"/>
+      <stop offset="1" stop-color="#fff3d6"/>
+    </linearGradient>
+    <linearGradient id="cloth" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#d9b78f"/>
+      <stop offset="1" stop-color="#8f5f3c"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1100" fill="url(#bg)"/>
+  <circle cx="750" cy="170" r="135" fill="#f0b429" opacity=".24"/>
+  <circle cx="135" cy="365" r="165" fill="#0f766e" opacity=".12"/>
+  <path d="M310 190h280l32 120H278l32-120z" fill="#201914"/>
+  <path d="M296 300h144l-18 595H226l70-595z" fill="url(#cloth)" stroke="#201914" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M460 300h144l70 595H478l-18-595z" fill="url(#cloth)" stroke="#201914" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M450 315v545" fill="none" stroke="#201914" stroke-width="7" stroke-linecap="round" opacity=".35"/>
+  <path d="M332 350h68M500 350h68" fill="none" stroke="#fffaf0" stroke-width="9" stroke-linecap="round" opacity=".65"/>
+  <path d="M256 895h170M474 895h170" fill="none" stroke="#b85c38" stroke-width="16" stroke-linecap="round"/>
+  <path d="M312 190c38 50 238 50 276 0" fill="none" stroke="#f0b429" stroke-width="12" stroke-linecap="round"/>
+  <text x="450" y="1010" text-anchor="middle" font-family="Trebuchet MS, Arial, sans-serif" font-size="58" font-weight="800" fill="#201914">Wide-Leg Trousers</text>
+</svg>

@@ -1,0 +1,15 @@
+target/
+
+apache-maven-3.9.9/
+apache-tomcat-10.1.54/
+
+.m2/
+.settings/
+
+.classpath
+.project
+
+*.war
+*.log
+*.zip
+*.mv.db
